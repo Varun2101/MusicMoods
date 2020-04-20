@@ -1,5 +1,5 @@
 # MusicMoods
-A song recommendation system based on the feelings behind a song, made by Kiran Bodipati, Varun Iyengar and Abshishek Vaidyanathan.
+A song recommendation system based on the feelings behind a song, made by Varun Iyengar, Kiran Bodipati and Abshishek Vaidyanathan.
 
 Link to dataset used: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data
 
